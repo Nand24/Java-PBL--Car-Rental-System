@@ -1,0 +1,7 @@
+B1001,CAR3,Amit Sharma,5,6000.0
+B1002,BIKE3,Rohit Verma,2,400.0
+B1003,CAR1,Neha Singh,3,2400.0
+B1004,CAR4,Rahul Mehta,6,9000.0
+B1005,BIKE1,Arjun Patel,4,400.0
+B1006,CAR2,Priya Nair,1,300.0
+B1007,BIKE4,Manish Gupta,3,900.0

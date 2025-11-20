@@ -1,0 +1,9 @@
+Car,CAR1,Toyota,Fortuner,800.0,true
+Car,CAR2,Maruti,Swift,300.0,true
+Car,CAR3,Audi,Q7,1200.0,false
+Car,CAR4,BMW,X5,1500.0,true
+Car,CAR5,RollsRoyce,Phantom,5000.0,true
+Bike,BIKE1,Honda,Unicorn,100.0,true
+Bike,BIKE2,Yamaha,FZS,120.0,true
+Bike,BIKE3,RoyalEnfield,Classic350,200.0,false
+Bike,BIKE4,KTM,Duke390,300.0,true
