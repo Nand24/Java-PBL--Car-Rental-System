@@ -73,8 +73,6 @@ database/
 │ vehicles.txt
 │ bookings.txt
 
-markdown
-Copy code
 
 ---
 
